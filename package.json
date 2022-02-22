@@ -4,7 +4,7 @@
   "description": "guide node udemy",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,12 @@
   "bugs": {
     "url": "https://github.com/djoun52/guide-node/issues"
   },
-  "homepage": "https://github.com/djoun52/guide-node#readme"
+  "homepage": "https://github.com/djoun52/guide-node#readme",
+  "dependencies": {
+    "node-emoji": "^1.11.0"
+  },
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
 }
