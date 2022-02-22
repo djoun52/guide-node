@@ -1,0 +1,19 @@
+{
+  "name": "guide-node",
+  "version": "1.0.0",
+  "description": "guide node udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/djoun52/guide-node.git"
+  },
+  "author": "djoun52",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/djoun52/guide-node/issues"
+  },
+  "homepage": "https://github.com/djoun52/guide-node#readme"
+}
